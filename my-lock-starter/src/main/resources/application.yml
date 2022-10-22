@@ -1,0 +1,6 @@
+spring:
+  redis:
+    database: 1
+    host: dev-redis.ehome.com
+    port: 6379
+    password: 2pRM4CooGB

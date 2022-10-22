@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.my.lock.autoconfigure.LockAutoConfiguration, \
+com.my.lock.autoconfigure.RedissonLockAutoConfiguration
